@@ -1,0 +1,46 @@
+.logo {
+    position: relative;
+    background-color: white;
+}
+.live_audio {
+    position: relative;right: 100px;top: 10px;
+}
+.recherche {
+    position: relative;left: 370px;bottom: 70px;
+    width: 350px;
+    border-color: white;
+}
+.confirmer {
+    position: relative;left: 650px;bottom: 122px;
+}
+.verif {
+    position: relative;left: 1200px;bottom: 180px;
+}
+.audio {
+    position: relative;left: 1200px;bottom: 170px;
+}
+.biblio {
+    position: relative;left: 1200px;bottom: 160px;
+}
+.MEA3 {
+    position: absolute;left: 1200px;bottom: 90px;
+}
+.MEA2 {
+    position: absolute;left: 650px;bottom: 175px;
+}
+.MEA1 {
+    position: absolute;left: 100px;bottom: 60px;
+}
+footer {
+    position: relative; top: 360px;
+}
+.titre {
+    position: relative; left: 550px;
+}
+.logo {
+    bottom: 40px;
+    width: 160px;
+}
+.haut {
+    background-color: violet;
+}
